@@ -14,7 +14,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx224/proprietary/vendor/camera/CRESTO_WIDE_FW_DATA_2_0x16813030.dat:$(TARGET_COPY_OUT_VENDOR)/camera/CRESTO_WIDE_FW_DATA_2_0x16813030.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/CRESTO_WIDE_FW_DATA_4_0x16813030.dat:$(TARGET_COPY_OUT_VENDOR)/camera/CRESTO_WIDE_FW_DATA_4_0x16813030.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/CRESTO_WIDE_FW_DATA_5_0x16813030.dat:$(TARGET_COPY_OUT_VENDOR)/camera/CRESTO_WIDE_FW_DATA_5_0x16813030.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC6:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC6 \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC6/color_ctrl.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC6/color_ctrl.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC6/dataflow.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC6/dataflow.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC6/depth_measurement.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC6/depth_measurement.dat \
@@ -49,7 +48,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC6/raw_conv_parisbrest.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC6/raw_conv_parisbrest.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC6/raw_proc_platform.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC6/raw_proc_platform.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC6/scene_detector.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC6/scene_detector.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC7:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC7 \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC7/color_ctrl.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC7/color_ctrl.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC7/dataflow.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC7/dataflow.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC7/depth_measurement.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC7/depth_measurement.dat \
@@ -84,7 +82,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC7/raw_conv_parisbrest.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC7/raw_conv_parisbrest.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC7/raw_proc_platform.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC7/raw_proc_platform.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC7/scene_detector.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC7/scene_detector.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC8:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC8 \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC8/color_ctrl.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC8/color_ctrl.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC8/dataflow.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC8/dataflow.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC8/depth_measurement.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC8/depth_measurement.dat \
@@ -120,7 +117,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC8/raw_proc_platform.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC8/raw_proc_platform.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SEM12BC8/scene_detector.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SEM12BC8/scene_detector.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SODA_HMN_BN0010-0001:$(TARGET_COPY_OUT_VENDOR)/camera/SODA_HMN_BN0010-0001 \
-    vendor/sony/pdx224/proprietary/vendor/camera/SUN12BS0:$(TARGET_COPY_OUT_VENDOR)/camera/SUN12BS0 \
     vendor/sony/pdx224/proprietary/vendor/camera/SUN12BS0/color_ctrl.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SUN12BS0/color_ctrl.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SUN12BS0/dataflow.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SUN12BS0/dataflow.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SUN12BS0/depth_measurement.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SUN12BS0/depth_measurement.dat \
@@ -155,7 +151,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/pdx224/proprietary/vendor/camera/SUN12BS0/raw_conv_parisbrest.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SUN12BS0/raw_conv_parisbrest.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SUN12BS0/raw_proc_platform.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SUN12BS0/raw_proc_platform.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SUN12BS0/scene_detector.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SUN12BS0/scene_detector.dat \
-    vendor/sony/pdx224/proprietary/vendor/camera/SUNHQCN1:$(TARGET_COPY_OUT_VENDOR)/camera/SUNHQCN1 \
     vendor/sony/pdx224/proprietary/vendor/camera/SUNHQCN1/dataflow.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SUNHQCN1/dataflow.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/SUNHQCN1/depth_comp.dat:$(TARGET_COPY_OUT_VENDOR)/camera/SUNHQCN1/depth_comp.dat \
     vendor/sony/pdx224/proprietary/vendor/camera/data.zip:$(TARGET_COPY_OUT_VENDOR)/camera/data.zip \
